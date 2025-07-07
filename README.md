@@ -11,5 +11,5 @@ cd in_lane_backend
 # 3. Install dependencies
 npm install
 
-# 5. Run the server
+# 4. Run the server
 npm start
